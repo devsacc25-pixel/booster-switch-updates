@@ -4,6 +4,6 @@
   "update_url": "https://play.google.com/store/apps/details?id=com.noodlepiedevelopments.boosterswitch",
   "force_update": true,
   "changelog": "• Critical bug fixes\n• New security updates\n• Performance improvements",
-  "min_required_version": "1.1.20",
+  "min_required_version": "1.1.32",
   "release_date": "2024-12-20"
 }
