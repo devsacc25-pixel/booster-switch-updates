@@ -1,9 +1,9 @@
 {
-  "version": "1.1.35",
-  "version_code": 70,
+  "version": "1.1.36",
+  "version_code": 71,
   "update_url": "https://play.google.com/store/apps/details?id=com.noodlepiedevelopments.boosterswitch",
   "force_update": true,
   "changelog": "• Critical bug fixes\n• New security updates\n• Performance improvements",
-  "min_required_version": "1.1.35",
+  "min_required_version": "1.1.36",
   "release_date": "2026-01-23"
 }
