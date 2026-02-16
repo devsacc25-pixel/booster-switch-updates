@@ -1,9 +1,9 @@
 {
-  "version": "1.2.22",
-  "version_code": 98,
+  "version": "1.2.25",
+  "version_code": 101,
   "update_url": "https://play.google.com/store/apps/details?id=com.noodlepiedevelopments.boosterswitch",
   "force_update": true,
   "changelog": "• Critical bug fixes\n• Performance improvements\n* New Features Added",
-  "min_required_version": "1.2.22",
-  "release_date": "2026-02-015"
+  "min_required_version": "1.2.25",
+  "release_date": "2026-02-016"
 }
